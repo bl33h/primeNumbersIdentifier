@@ -1,7 +1,7 @@
 /*---------------------------------------------------------------------------
 Copyright (C), 2022-2023, Sara Echeverria (bl33h)
 @author Sara Echeverria
-FileName: PrimeNumbersIdentifier
+FileName: primeNumbersIdentifier
 @version: I
 Creation: 25/08/2022
 Last modification: 31/08/2022
