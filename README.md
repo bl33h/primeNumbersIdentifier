@@ -3,7 +3,7 @@ A multi-threaded program that identifies prime numbers within a given range and 
 
 <p align="center">
   <br>
-  <img src="https://i.gifer.com/AAqY.mp4" alt="pic" width="500">
+  <img src="https://i.gifer.com/AAqY.gif" alt="pic" width="500">
   <br>
 </p>
 <p align="center" >
